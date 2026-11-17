@@ -251,31 +251,6 @@ Where:
 
 ---
 
-## 📂 Repository Structure
-
-```text
-Information-Storage-and-Retrieval/
-│
-├── Group-A/
-│   ├── Experiment-01-Conflation-Algorithm/
-│   ├── Experiment-02-Single-Pass-Clustering/
-│   └── Experiment-03-Inverted-File-Retrieval/
-│
-├── Group-B/
-│   ├── Experiment-04-Precision-and-Recall/
-│   ├── Experiment-05-F-Measure-and-E-Measure/
-│   └── Experiment-06-Image-Feature-Extraction/
-│
-├── Group-C/
-│   ├── Experiment-07-Web-Crawler/
-│   ├── Experiment-08-Live-Weather-Report/
-│   └── Experiment-09-Recommender-System/
-│
-└── README.md
-```
-
-*Note: Each experiment folder can contain Python source code (.py), Jupyter Notebook (.ipynb), datasets, sample input files, and output screenshots.*
-
 ## ⚙️ Installation and Setup
 
 ### 1. Clone the Repository
